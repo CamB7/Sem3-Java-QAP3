@@ -95,7 +95,7 @@ Extends Problem 3 by introducing an interface:
 2. Navigate to the project directory:
 
    ```bash
-   cd SEM3-JAVA-QAP3
+   cd Sem3-Java-QAP3
    ```
 3. Compile all Java files:
 
